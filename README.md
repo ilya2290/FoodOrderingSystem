@@ -5,7 +5,7 @@ Stack: <br>
 <br>
     Postman v10.24.16
 <br>
-    server.port=1998
+    server.port=8080
 <br>
     Java v22
 <br>
